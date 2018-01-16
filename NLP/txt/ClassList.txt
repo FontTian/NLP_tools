@@ -1,0 +1,5 @@
+汽车 http://finance.chinanews.com/auto/gd.shtml
+财经 http://finance.chinanews.com/cj/gd.shtml
+健康 http://www.chinanews.com/jiankang.shtml
+教育 http://www.chinanews.com/jiaoyu.shtml
+军事 http://www.chinanews.com/mil/news.shtml
